@@ -1,6 +1,7 @@
 # Technical_indicators_stock-market
 Collection of 7 technical indicators for stock-market forecasting
 
+*N.B. See the wiki page for more info
 # Technical-Indicators
 Collection of Technical Indicators used in Stock Market Analysis. Currently there are following indications in the project;
 
